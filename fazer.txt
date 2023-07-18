@@ -1,0 +1,3 @@
+remover as aspas duplas, estão dando pau no replace.
+
+deixar as tags html, somente remover aquele tamanho exagerado

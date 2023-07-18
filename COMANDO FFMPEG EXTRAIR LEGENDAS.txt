@@ -1,0 +1,1 @@
+ffmpeg -i "ARQUIVO.mkv" -map 0:s:0 legenda.srt
