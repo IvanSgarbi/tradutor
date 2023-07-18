@@ -36,4 +36,4 @@ Siga as instruções para carregar as legendas no player K-lite
 Ou arraste o arquivo de legenda para dentro do player
 <hr>
 Vídeo demonstrativo:
-https://www.youtube.com/embed/i5RoP3OiWTE
+https://youtu.be/i5RoP3OiWTE
